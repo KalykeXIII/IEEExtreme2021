@@ -1,3 +1,5 @@
+# Task 2
+
 class ImageSimilarity:
     def __init__(self):
         cases = int(float(input()))
